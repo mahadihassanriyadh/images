@@ -15,7 +15,7 @@
       "techUsed": "HTML, CSS, JS, React, Firebase, Material UI, React Hook Form, React Router, Node JS, Node Express, MongoDB.",
       "mockupImg": "https://i.ibb.co/rxtGNjq/project1.png",
       "img": [
-        "https://i.ibb.co/bBkmzpz/clockroach1.png", "https://i.ibb.co/rx3dxCx/clockroach2.png", "https://i.ibb.co/fN1vDv8/clockroach3.png", "https://i.ibb.co/Hr6J7f6/clockroach4.png", "https://i.ibb.co/FJDRBWh/clockroach5.png"
+        "https://i.ibb.co/VTnQVn5/clockroach1-1.png", "https://i.ibb.co/rx3dxCx/clockroach2.png", "https://i.ibb.co/fN1vDv8/clockroach3.png", "https://i.ibb.co/Hr6J7f6/clockroach4.png", "https://i.ibb.co/FJDRBWh/clockroach5.png"
       ]
     },
     {
@@ -33,7 +33,7 @@
       ],
       "techUsed": "HTML, CSS, JS, React, Firebase, Bootstrap, React Hook Form, React Router, Node JS, Node Express, MongoDB.",
       "mockupImg": "https://i.ibb.co/hV9fMRs/project2.png",
-      "img": ["https://i.ibb.co/StfsKxm/tourara1.png", "https://i.ibb.co/Czt5s8w/tourara2.png", "https://i.ibb.co/CM6WHNp/tourara3.png"]
+      "img": ["https://i.ibb.co/Mg5rfM7/tourara1-1.jpg", "https://i.ibb.co/P559W00/tourara2-1.png", "https://i.ibb.co/CM6WHNp/tourara3.png"]
     },
     {
       "_id": "61a5de35ca4b354938e04233",
@@ -50,7 +50,7 @@
       ],
       "techUsed": "HTML, CSS, JS, React, Firebase, Bootstrap, React Hook Form, React Router.",
       "mockupImg": "https://i.ibb.co/QJjGH3K/project4.png",
-      "img": ["https://i.ibb.co/DtrPVXy/ambicioz-M1.png", "https://i.ibb.co/0h3s6vB/ambicioz-M2.png", "https://i.ibb.co/JHgm9Qy/ambicioz-M3.png"]
+      "img": ["https://i.ibb.co/0BRnD93/ambicioz-M1-1.jpg", "https://i.ibb.co/r7y4jKB/ambicioz-M2-1.jpg", "https://i.ibb.co/RjmwFd6/ambicioz-M3-1.png"]
     },
     {
       "_id": "61a5de35ca4b354938e04123",
@@ -67,7 +67,7 @@
       ],
       "techUsed": "HTML, CSS, JS, React, React Router.",
       "mockupImg": "https://i.ibb.co/TqYpdrM/project3.png",
-      "img": ["https://i.ibb.co/9ytjj0N/amfly1.png", "https://i.ibb.co/zrfM7bv/amfly2.png", "https://i.ibb.co/9w5FHXx/amfly3.png"]
+      "img": ["https://i.ibb.co/Jrcm2Cj/amfly1-1.png", "https://i.ibb.co/QDzFsXV/amfly2-1.png", "https://i.ibb.co/zJ6K1bT/amfly3-1.png"]
     },
     {
       "_id": "61a5de35ca4b354938e08796",
@@ -84,8 +84,6 @@
       ],
       "techUsed": "HTML, CSS, JS, React, React Router",
       "mockupImg": "https://i.ibb.co/28fr0BM/project5.png",
-      "img": ["https://i.ibb.co/2y4hhZv/skillup1.png", "https://i.ibb.co/WB8X85K/skillup2.png", "https://i.ibb.co/SvCyN2T/skillup3.png"]
+      "img": ["https://i.ibb.co/cFLfg80/skillup1-1.png", "https://i.ibb.co/SPCG25L/skillup2-1.png", "https://i.ibb.co/qFSB6BP/skillup3-1.png"]
     }
   ]
-  
-
