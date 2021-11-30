@@ -1,0 +1,91 @@
+[
+    {
+      "_id": "61a5de35ca4b354938e01248",
+      "index": 0,
+      "name": "Clockroach",
+      "liveSite": "https://niche-website-clockroach.web.app/",
+      "clientSide": "https://github.com/mahadihassanriyadh/clockroach-client-side",
+      "serverSide": "https://github.com/mahadihassanriyadh/clockroach-server-side",
+      "description": [
+          "Admin and user have different levels of access in the website’s dashboard.",
+          "Users can register using email and password or can use a Google account to sign in.",
+          "Users or Admin must sign in to view the dashboard or to place an order.",
+          "Users will be able to manage their orders from the dashboard and add reviews. An admin will be able to add other admins, manage all orders, manage products, etc."
+      ],
+      "techUsed": "HTML, CSS, JS, React, Firebase, Material UI, React Hook Form, React Router, Node JS, Node Express, MongoDB.",
+      "mockupImg": "https://i.ibb.co/rxtGNjq/project1.png",
+      "img": [
+        "https://i.ibb.co/bBkmzpz/clockroach1.png", "https://i.ibb.co/rx3dxCx/clockroach2.png", "https://i.ibb.co/fN1vDv8/clockroach3.png", "https://i.ibb.co/Hr6J7f6/clockroach4.png", "https://i.ibb.co/FJDRBWh/clockroach5.png"
+      ]
+    },
+    {
+      "_id": "61a5de35ca4b354938e04256",
+      "index": 1,
+      "name": "Tourara",
+      "liveSite": "https://tourism-website-tourara.web.app/",
+      "clientSide": "https://github.com/mahadihassanriyadh/tourara-client-side",
+      "serverSide": "https://github.com/mahadihassanriyadh/tourara-server-side",
+      "description": [
+          "Tourara is a Bangladesh based travel agency.",
+          "Users can book new packages and manage their previous bookings.",
+          "Users can book new packages and manage their previous bookings.",
+          "Responsive Design."
+      ],
+      "techUsed": "HTML, CSS, JS, React, Firebase, Bootstrap, React Hook Form, React Router, Node JS, Node Express, MongoDB.",
+      "mockupImg": "https://i.ibb.co/hV9fMRs/project2.png",
+      "img": ["https://i.ibb.co/StfsKxm/tourara1.png", "https://i.ibb.co/Czt5s8w/tourara2.png", "https://i.ibb.co/CM6WHNp/tourara3.png"]
+    },
+    {
+      "_id": "61a5de35ca4b354938e04233",
+      "index": 2,
+      "name": "Ambicioz Medical",
+      "liveSite": "https://healthcare-related-websi-67bf7.web.app/",
+      "clientSide": "https://github.com/mahadihassanriyadh/ambicioz-medical",
+      "serverSide": "",
+      "description": [
+          "Here patients can look for the suitable packages needed for their medical needs.",
+          "Visitors can find a doctor suitable for their needs from the find a doctor section after logging in.",
+          "Users can see any service details by clicking on the button details.",
+          "Fully responsive for mobile and tablet too."
+      ],
+      "techUsed": "HTML, CSS, JS, React, Firebase, Bootstrap, React Hook Form, React Router.",
+      "mockupImg": "https://i.ibb.co/QJjGH3K/project4.png",
+      "img": ["https://i.ibb.co/DtrPVXy/ambicioz-M1.png", "https://i.ibb.co/0h3s6vB/ambicioz-M2.png", "https://i.ibb.co/JHgm9Qy/ambicioz-M3.png"]
+    },
+    {
+      "_id": "61a5de35ca4b354938e04123",
+      "index": 3,
+      "name": "AmFly",
+      "liveSite": "https://i.ibb.co/TqYpdrM/project3.png",
+      "clientSide": "https://github.com/mahadihassanriyadh/amfly-simple-router",
+      "serverSide": "",
+      "description": [
+          "This is a simple E-Commerce website",
+          "User can purchase multiple items according to their needs",
+          "User can see detail view of their carts and add or remove any product from cart.",
+          "User can easily move from one page to another as this is a single page application."
+      ],
+      "techUsed": "HTML, CSS, JS, React, React Router.",
+      "mockupImg": "https://i.ibb.co/TqYpdrM/project3.png",
+      "img": ["https://i.ibb.co/9ytjj0N/amfly1.png", "https://i.ibb.co/zrfM7bv/amfly2.png", "https://i.ibb.co/9w5FHXx/amfly3.png"]
+    },
+    {
+      "_id": "61a5de35ca4b354938e08796",
+      "index": 4,
+      "name": "Skillup",
+      "liveSite": "https://skillup-mahadihassanriyadh.netlify.app/",
+      "clientSide": "https://github.com/mahadihassanriyadh/skillup",
+      "serverSide": "",
+      "description": [
+          "Skillup is a online training firm.",
+          "A user can see detail overview of any course offered by skillup",
+          "Anyone can read blogs from the blog section of the website",
+          "This website is under production, many functionalities will be updated soon..."
+      ],
+      "techUsed": "HTML, CSS, JS, React, React Router",
+      "mockupImg": "https://i.ibb.co/28fr0BM/project5.png",
+      "img": ["https://i.ibb.co/2y4hhZv/skillup1.png", "https://i.ibb.co/WB8X85K/skillup2.png", "https://i.ibb.co/SvCyN2T/skillup3.png"]
+    }
+  ]
+  
+
